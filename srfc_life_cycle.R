@@ -26,5 +26,10 @@ graph1 <- create_graph(nodes_df = nodes_1,
           add_global_graph_attrs(attr = 'overlap', value = FALSE, attr_type = 'graph')
 render_graph(graph1)
 
+<<<<<<< HEAD
 # blah 
 # blah
+=======
+test conflict
+
+>>>>>>> de48e21f09b8830b4d852aa872f0ec5b788d21c0
